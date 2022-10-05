@@ -1,7 +1,3 @@
-Aqui debería ir la vida y obra:
-Bla bla blo
-:V nueva linea
+Historia:
 
-This is another bla bla bla
-
-XD XD
+Lorem ipsum
